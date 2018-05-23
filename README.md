@@ -1,3 +1,6 @@
+
+### This code is associated with the paper from Gala et al., "Computer assisted detection of axonal bouton structural plasticity in in vivo time-lapse images". eLife, 2017. http://dx.doi.org/10.7554/eLife.29315
+
 This GitHub site provides all NeuroMorph software and datasets for download.  
 Please visit the [NeuroMorph project website](http://neuromorph.epfl.ch) for more information.
 
